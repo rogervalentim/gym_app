@@ -3,7 +3,6 @@ import { SelectedPage } from "@/shared/types";
 import { motion } from "framer-motion";
 import ContactPageGraphic from "@/assets/ContactUsPageGraphic.png";
 import HText from "@/shared/HText";
-import { triggerAsyncId } from "async_hooks";
 
 type Props = {
     setSelectedPage: (value: SelectedPage) => void;
