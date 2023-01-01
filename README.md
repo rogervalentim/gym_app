@@ -1,8 +1,5 @@
-<h1 align="center">Gym app</h1><span><img src="/halter.png" /></span>
+<h1 align="center">🏋️Gym app</h1><span><img src="/halter.png" /></span>
 
-<div align="center">
-<img src=".github/gym.png" />
-</div>
 
 <div align="center">
 <a href="https://gym-app-mocha.vercel.app/" target="_blank">clique para visitar o projeto</a>
